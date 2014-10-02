@@ -14,7 +14,7 @@ This same functionality will be integrated with the 2.0 Open Toolkit out of the 
 
 The submodules are:
 
-https://github.com/dita-community/org.dita.learning2.pdf.git
-https://github.com/dita-community/org.dita.dita13base.pdf.git
-https://github.com/dita-community/org.dita.learning2.html.git
-https://github.com/dita-community/org.dita.dita13base.html.git
+* https://github.com/dita-community/org.dita.learning2.pdf.git
+* https://github.com/dita-community/org.dita.dita13base.pdf.git
+* https://github.com/dita-community/org.dita.learning2.html.git
+* https://github.com/dita-community/org.dita.dita13base.html.git
