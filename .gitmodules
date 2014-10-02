@@ -1,0 +1,12 @@
+[submodule "org.dita.learning2.pdf"]
+	path = org.dita.learning2.pdf
+	url = https://github.com/dita-community/org.dita.learning2.pdf.git
+[submodule "org.dita.dita13base.pdf"]
+	path = org.dita.dita13base.pdf
+	url = https://github.com/dita-community/org.dita.dita13base.pdf.git
+[submodule "org.dita.learning2.html"]
+	path = org.dita.learning2.html
+	url = https://github.com/dita-community/org.dita.learning2.html.git
+[submodule "org.dita.dita13base.html"]
+	path = org.dita.dita13base.html
+	url = https://github.com/dita-community/org.dita.dita13base.html.git
